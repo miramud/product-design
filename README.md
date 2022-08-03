@@ -18,11 +18,11 @@ https://www.figma.com/file/0vqragLpZM1sYyTOBeM6rz/REPLICATED-WALLET?node-id=0%3A
 As part of my learning and development, I replicated an already existing E-wallet application.
 
 Here are some other designs of mine: 
-### QoreID -
+#### QoreID -
 https://www.figma.com/file/H5vcDQqiYGeVPdmw5DI5QF/QoreID?node-id=0%3A1,
-### Biz project -
+#### Biz project -
 https://www.figma.com/file/uqygWL9BPMyxwg8A5Zb1u6/biz-project?node-id=0%3A1, 
-### Multipurpose biz landing page -
+#### Multipurpose biz landing page -
 https://www.figma.com/file/MwqLqQfVMYcf0wwec4sDJC/Multipurpose-biz-site-sample-landing-page?node-id=12%3A406, 
-### Agent App -
+#### Agent App -
 https://www.figma.com/file/nri0zaA7Hgp3Amtmk4u4Iw/AGENT-APP?node-id=1%3A959
