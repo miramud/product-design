@@ -1,5 +1,7 @@
 # product-design
 
+## SOFTWARE DESIGN PROJECTS: https://github.com/miramud/software-dev-portfolio
+
 ## PRODUCT DESIGN PROJECTS:
 ### E2News project: https://www.figma.com/file/pXtUABAzz4drd9sg134XDu/E2NEWS-m2clik
 This project is one of M2Clik's projects for the Journalist's world. I worked in Collaboration with one other UI Designer called Success Abhulimen.
