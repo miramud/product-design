@@ -1,8 +1,10 @@
 # product-design
 
-## SOFTWARE DESIGN PROJECTS: https://github.com/miramud/software-dev-portfolio
+## E2News Case study: https://bit.ly/e2news-case-study
 
-## PRODUCT DESIGN PROJECTS:
+## UX/UI DESIGN PROJECTS:
+### iRabit project: https://bit.ly/iRabit-prototype
+This project an ongoing investment project that took a pulse for some economy reasons.
 ### E2News project: https://www.figma.com/file/pXtUABAzz4drd9sg134XDu/E2NEWS-m2clik
 This project is one of M2Clik's projects for the Journalist's world. I worked in Collaboration with one other UI Designer called Success Abhulimen.
 ### Glade project: 
