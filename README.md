@@ -1,4 +1,4 @@
-# product-design
+# Product Design
 
 ## E2News Case study: https://bit.ly/e2news-case-study
 
