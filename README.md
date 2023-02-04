@@ -1,6 +1,6 @@
 # Product Design
 
-## E2News Case study: 
+## E2News Case study: https://bit.ly/E2News-case-study
 
 ## UX/UI DESIGN PROJECTS:
 ### iRabit project: https://bit.ly/iRabit-prototype
