@@ -3,6 +3,8 @@
 ## E2News Case study: https://bit.ly/E2News-case-study
 
 ## UX/UI DESIGN PROJECTS:
+### Real Estate Dashboard
+https://www.figma.com/file/TiP1XF4TBMRuqrZPV2ORQc/Real-Estate-Admin-Dashboard-M2Clik
 ### iRabit project: https://bit.ly/iRabit-prototype
 This project an ongoing investment project that took a pulse for some economy reasons.
 ### E2News project: https://www.figma.com/file/pXtUABAzz4drd9sg134XDu/E2NEWS-m2clik
@@ -11,7 +13,7 @@ This project is one of M2Clik's projects for the Journalist's world. I worked in
 https://www.figma.com/file/OkM6OT1TGouSdFDexP7G4v/GLADE-2?node-id=0%3A1 
 This project is one of CVSpan's major projects, AND I in collaboration with two other senior product designers worked on it. Please note that this project was done under NDA. Hence, I cannot leave every aspect of this project in the link.
 ### OleOle project: 
-https://www.figma.com/file/Px5SKsVDFduHDvfZetKyxP/ole-ole-project?node-id=0%3A1 
+https://www.figma.com/file/dwsapJQtJDs163F1AfJ322/ole-ole-project-M2Clik 
 The project was designed according to what was specified in the PRD of the client. I, in collaboration with two other designers, worked on this project.
 ### NewCourtland project: 
 https://www.figma.com/file/tUZujaWWYpePxWaL0HtJeg/NEW-COURTLAND?node-id=0%3A1
